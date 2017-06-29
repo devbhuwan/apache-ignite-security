@@ -1,0 +1,4 @@
+rootProject.name = 'apache-ignite-security'
+include 'domain'
+include 'ignite-data-node'
+
