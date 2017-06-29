@@ -49,7 +49,7 @@ subprojects {
 
     ext['org.eclipse.jetty'] = "$jettyVersion"
 
-    archivesBaseName = "horizontal-scaling-with-apache-ignite-${it.name}"
+    archivesBaseName = "apache-ignite-security-${it.name}"
 
     sourceSets {
         main {
